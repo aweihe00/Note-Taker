@@ -1,16 +1,23 @@
 {
-    "name": "note-taker",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "express": "^4.16.4",
-      "mysql": "^2.16.0"
-    }
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Unit 11 Express Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aweihe00/Note-Taker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aweihe00/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/aweihe00/Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "require-path": "^0.3.0"
   }
-  
+}
